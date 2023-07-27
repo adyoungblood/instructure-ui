@@ -22,6 +22,7 @@
  * SOFTWARE.
  */
 
+import type { CanvasDarkModeTheme } from '@instructure/canvas-dark-mode-theme'
 import type { CanvasHighContrastTheme } from '@instructure/canvas-high-contrast-theme'
 import type {
   CanvasTheme,
@@ -30,12 +31,15 @@ import type {
 import type { InstructureTheme } from '@instructure/instructure-theme'
 import type { BaseTheme } from '@instructure/shared-types'
 
+// eslint-disable-next-line import/no-extraneous-dependencies
+import { theme as canvasDarkMode } from '@instructure/canvas-dark-mode-theme'
 import { theme as canvasHighContrast } from '@instructure/canvas-high-contrast-theme'
 import { theme as canvas } from '@instructure/canvas-theme'
 import { theme as instructure } from '@instructure/instructure-theme'
 
 type ThemeMap = {
   canvas: CanvasTheme
+  'canvas-dark-mode': CanvasDarkModeTheme
   'canvas-high-contrast': CanvasHighContrastTheme
   instructure: InstructureTheme
 
@@ -53,7 +57,7 @@ type ThemeSpecificStyle<ComponentTheme> = {
   [themeKey in ThemeKeys]?: Partial<ComponentTheme>
 }
 
-export { canvas, canvasHighContrast, instructure }
+export { canvas, canvasDarkMode, canvasHighContrast, instructure }
 export default canvas
 export type {
   ThemeMap,
@@ -63,6 +67,7 @@ export type {
   ThemeSpecificStyle,
   CanvasTheme,
   CanvasBrandVariables,
+  CanvasDarkModeTheme,
   CanvasHighContrastTheme,
   InstructureTheme
 }

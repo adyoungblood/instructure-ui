@@ -22,10 +22,13 @@
  * SOFTWARE.
  */
 
-import { canvas } from './canvas'
-import { canvasDarkMode } from './canvasDarkMode'
-import { canvasHighContrast } from './canvasHighContrast'
-import { instructure } from './instructure'
-import { functionalColors } from './utils/functionalColors'
+import { canvas } from '../canvas'
+import { colors } from './colors'
 
-export { canvas, canvasDarkMode, canvasHighContrast, instructure, functionalColors }
+const canvasDarkMode = {
+  ...canvas,
+  colors
+}
+
+export default canvasDarkMode
+export { canvasDarkMode }

@@ -29,3 +29,5 @@ tsconfig.build.tsbuildinfo
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+canvas-dark-mode/node_modules
+canvas-dark-mode/.yarn

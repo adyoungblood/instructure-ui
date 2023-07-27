@@ -29,7 +29,7 @@ import grayMatter from 'gray-matter'
 import { logWarn as warn } from '@instructure/console'
 
 import { InstUISettingsProvider } from '@instructure/emotion'
-import { canvas, canvasHighContrast, instructure } from '@instructure/ui-themes'
+import { canvas, canvasDarkMode, canvasHighContrast, instructure } from '@instructure/ui-themes'
 
 import { View } from '@instructure/ui-view'
 import { Table } from '@instructure/ui-table'
@@ -55,7 +55,7 @@ type Tracker = {
   currentId: any[]
 }
 
-const themes = { canvas, canvasHighContrast, instructure }
+const themes = { canvas, canvasDarkMode, canvasHighContrast, instructure }
 
 /* eslint-disable react/prop-types, react/display-name */
 const elements = {

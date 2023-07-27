@@ -22,10 +22,27 @@
  * SOFTWARE.
  */
 
-import { canvas } from './canvas'
-import { canvasDarkMode } from './canvasDarkMode'
-import { canvasHighContrast } from './canvasHighContrast'
-import { instructure } from './instructure'
-import { functionalColors } from './utils/functionalColors'
+import { functionalColors } from '../utils/functionalColors'
+import { BaseColors, Colors } from '@instructure/shared-types'
 
-export { canvas, canvasDarkMode, canvasHighContrast, instructure, functionalColors }
+const baseColors: BaseColors = {
+  brand: '#FC8B4A',
+  link: '#FC8B4A',
+  electric: '#FC8B4A',
+  shamrock: '#F478B4',
+  barney: '#40CD5B',
+  crimson: '#1FF9E0',
+  fire: '#03A1EC',
+  licorice: '#D2C4BA',
+  oxford: '#C6B4A7',
+  ash: '#94887F',
+  slate: '#746961',
+  tiara: '#38322E',
+  porcelain: '#1A1A1A',
+  white: '#121212'
+}
+
+const colors: Colors = Object.freeze(functionalColors(baseColors))
+
+export default colors
+export { colors }

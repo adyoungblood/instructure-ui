@@ -22,10 +22,16 @@
  * SOFTWARE.
  */
 
-import { canvas } from './canvas'
-import { canvasDarkMode } from './canvasDarkMode'
-import { canvasHighContrast } from './canvasHighContrast'
-import { instructure } from './instructure'
-import { functionalColors } from './utils/functionalColors'
-
-export { canvas, canvasDarkMode, canvasHighContrast, instructure, functionalColors }
+module.exports = {
+  presets: [
+    [
+      require('@instructure/ui-babel-preset'),
+      {
+        coverage: Boolean(process.env.COVERAGE),
+        esModules: Boolean(process.env.ES_MODULES),
+        removeConsole: process.env.NODE_ENV === 'production',
+        transformImports: Boolean(process.env.TRANSFORM_IMPORTS)
+      }
+    ]
+  ]
+}

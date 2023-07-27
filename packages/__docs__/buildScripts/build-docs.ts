@@ -28,6 +28,7 @@ import { getClientProps } from './utils/getClientProps'
 import { processFile } from './processFile'
 import fs from 'fs'
 import { theme as canvasTheme } from '@instructure/canvas-theme'
+import { theme as canvasDarkModeTheme } from '@instructure/canvas-dark-mode-theme'
 import { theme as canvasHighContrastTheme } from '@instructure/canvas-high-contrast-theme'
 import { theme as instructureTheme } from '@instructure/instructure-theme'
 import type {
@@ -223,6 +224,10 @@ function parseThemes() {
   parsed[canvasTheme.key] = {
     resource: canvasTheme,
     requirePath: '@instructure/canvas-theme'
+  }
+  parsed[canvasDarkModeTheme.key] = {
+    resource: canvasDarkModeTheme,
+    requirePath: '@instructure/canvas-dark-mode-theme'
   }
   parsed[canvasHighContrastTheme.key] = {
     resource: canvasHighContrastTheme,

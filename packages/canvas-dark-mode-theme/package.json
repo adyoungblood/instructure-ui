@@ -1,8 +1,8 @@
 {
-  "name": "@instructure/ui-themes",
+  "name": "@instructure/canvas-dark-mode-theme",
   "version": "8.39.0",
-  "description": "A library of instructure themes",
-  "author": "Instructure, Inc. Engineering and Product Design",
+  "description": "A dark mode theme for Canvas LMS made by Instructure Inc.",
+  "author": "TODO: some interns",
   "module": "./es/index.js",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
@@ -22,16 +22,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@instructure/ui-babel-preset": "8.39.0",
-    "@instructure/ui-test-utils": "8.39.0",
-    "@instructure/ui-theme-tokens": "8.39.0"
+    "@instructure/ui-babel-preset": "8.39.0"
   },
   "dependencies": {
-    "@instructure/canvas-dark-mode-theme": "file:../canvas-dark-mode-theme",
-    "@instructure/canvas-high-contrast-theme": "8.39.0",
-    "@instructure/canvas-theme": "8.39.0",
-    "@instructure/instructure-theme": "8.39.0",
-    "@instructure/shared-types": "8.39.0"
+    "@babel/runtime": "^7.22.6",
+    "@instructure/shared-types": "8.39.0",
+    "@instructure/theme-registry": "8.39.0",
+    "@instructure/ui-theme-tokens": "../ui-theme-tokens"
   },
   "publishConfig": {
     "access": "public"

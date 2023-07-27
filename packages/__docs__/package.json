@@ -25,6 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/standalone": "^7.22.9",
+    "@instructure/canvas-dark-mode-theme": "^8.39.0",
     "@instructure/canvas-high-contrast-theme": "8.39.0",
     "@instructure/canvas-theme": "8.39.0",
     "@instructure/console": "8.39.0",

@@ -22,10 +22,48 @@
  * SOFTWARE.
  */
 
-import { canvas } from './canvas'
-import { canvasDarkMode } from './canvasDarkMode'
-import { canvasHighContrast } from './canvasHighContrast'
-import { instructure } from './instructure'
-import { functionalColors } from './utils/functionalColors'
+import { canvasDarkMode } from '@instructure/ui-theme-tokens'
+import { BaseTheme } from '@instructure/shared-types'
+import { ThemeRegistry } from '@instructure/theme-registry'
 
-export { canvas, canvasDarkMode, canvasHighContrast, instructure, functionalColors }
+const {
+  borders,
+  breakpoints,
+  colors,
+  forms,
+  media,
+  shadows,
+  spacing,
+  stacking,
+  transitions,
+  typography
+} = canvasDarkMode
+
+const key = 'canvas-dark-mode'
+
+export type CanvasDarkModeTheme = BaseTheme & {
+  key: 'canvas-dark-mode'
+} & typeof canvasDarkMode
+
+const __theme: CanvasDarkModeTheme = {
+  key,
+  description: 'This theme meets WCAG 2.0 AA rules for color contrast.',
+  ...canvasDarkMode
+}
+const theme = ThemeRegistry.registerTheme(__theme)
+
+export default theme
+export {
+  theme,
+  key,
+  colors,
+  borders,
+  transitions,
+  typography,
+  spacing,
+  forms,
+  media,
+  breakpoints,
+  shadows,
+  stacking
+}

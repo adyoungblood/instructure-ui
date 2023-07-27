@@ -35,6 +35,17 @@ module.exports = [
     outputPackage: '@instructure/canvas-theme'
   },
   {
+    themeKey: 'canvas-dark-mode',
+    sourceTokens: '@instructure/ui-theme-tokens/lib/canvasDarkMode',
+    outputPackage: '@instructure/ui-theme-tokens',
+    groupOutput: true
+  },
+  {
+    themeKey: 'canvas-dark-mode',
+    sourceTokens: '@instructure/ui-theme-tokens/lib/canvasDarkMode',
+    outputPackage: '@instructure/canvas-dark-mode-theme'
+  },
+  {
     themeKey: 'canvas-high-contrast',
     sourceTokens: '@instructure/ui-theme-tokens/lib/canvasHighContrast',
     outputPackage: '@instructure/ui-theme-tokens',
