@@ -31,7 +31,6 @@ import type {
 import type { InstructureTheme } from '@instructure/instructure-theme'
 import type { BaseTheme } from '@instructure/shared-types'
 
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { theme as canvasDarkMode } from '@instructure/canvas-dark-mode-theme'
 import { theme as canvasHighContrast } from '@instructure/canvas-high-contrast-theme'
 import { theme as canvas } from '@instructure/canvas-theme'

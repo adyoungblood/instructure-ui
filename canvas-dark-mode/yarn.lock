@@ -2183,39 +2183,39 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme::locator=%40instructure%2Fui-themes%40file%3A..%2Fpackages%2Fui-themes%23..%2Fpackages%2Fui-themes%3A%3Ahash%3De5491d%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
+"@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme::locator=%40instructure%2Fui-themes%40file%3A..%2Fpackages%2Fui-themes%23..%2Fpackages%2Fui-themes%3A%3Ahash%3Dd610e5%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
   version: 8.39.0
-  resolution: "@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme#../canvas-dark-mode-theme::hash=86dd5b&locator=%40instructure%2Fui-themes%40file%3A..%2Fpackages%2Fui-themes%23..%2Fpackages%2Fui-themes%3A%3Ahash%3De5491d%26locator%3Dcanvas-dark-mode%2540workspace%253A."
+  resolution: "@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme#../canvas-dark-mode-theme::hash=58c61c&locator=%40instructure%2Fui-themes%40file%3A..%2Fpackages%2Fui-themes%23..%2Fpackages%2Fui-themes%3A%3Ahash%3Dd610e5%26locator%3Dcanvas-dark-mode%2540workspace%253A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
     "@instructure/theme-registry": 8.39.0
     "@instructure/ui-theme-tokens": ../ui-theme-tokens
-  checksum: e788dfb625af2322627175220f2b53aa95565ffca9ce0b4c6fee0078c1b7472a1ead4c272d97ba05c02c1349bf755b9988a2cdfdcdb2275ba4baa4289f936874
+  checksum: dc05cb701a06a59429d9d2c2717ff3b56d49951bbf0f49b8b3d38193c2a8a244b2f64751b4bc7b712ff6d5343c4aff363efce4d6ee11bb2e958002c1538b4812
   languageName: node
   linkType: hard
 
-"@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme::locator=%40instructure%2Fui-themes%40file%3A..%2Fui-themes%23..%2Fui-themes%3A%3Ahash%3De5491d%26locator%3D%2540instructure%252Fui%2540file%253A..%252Fpackages%252Fui%2523..%252Fpackages%252Fui%253A%253Ahash%253D3e0025%2526locator%253Dcanvas-dark-mode%252540workspace%25253A.":
+"@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme::locator=%40instructure%2Fui-themes%40file%3A..%2Fui-themes%23..%2Fui-themes%3A%3Ahash%3Dd610e5%26locator%3D%2540instructure%252Fui%2540file%253A..%252Fpackages%252Fui%2523..%252Fpackages%252Fui%253A%253Ahash%253D03fc1a%2526locator%253Dcanvas-dark-mode%252540workspace%25253A.":
   version: 8.39.0
-  resolution: "@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme#../canvas-dark-mode-theme::hash=86dd5b&locator=%40instructure%2Fui-themes%40file%3A..%2Fui-themes%23..%2Fui-themes%3A%3Ahash%3De5491d%26locator%3D%2540instructure%252Fui%2540file%253A..%252Fpackages%252Fui%2523..%252Fpackages%252Fui%253A%253Ahash%253D3e0025%2526locator%253Dcanvas-dark-mode%252540workspace%25253A."
+  resolution: "@instructure/canvas-dark-mode-theme@file:../canvas-dark-mode-theme#../canvas-dark-mode-theme::hash=58c61c&locator=%40instructure%2Fui-themes%40file%3A..%2Fui-themes%23..%2Fui-themes%3A%3Ahash%3Dd610e5%26locator%3D%2540instructure%252Fui%2540file%253A..%252Fpackages%252Fui%2523..%252Fpackages%252Fui%253A%253Ahash%253D03fc1a%2526locator%253Dcanvas-dark-mode%252540workspace%25253A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
     "@instructure/theme-registry": 8.39.0
     "@instructure/ui-theme-tokens": ../ui-theme-tokens
-  checksum: e788dfb625af2322627175220f2b53aa95565ffca9ce0b4c6fee0078c1b7472a1ead4c272d97ba05c02c1349bf755b9988a2cdfdcdb2275ba4baa4289f936874
+  checksum: dc05cb701a06a59429d9d2c2717ff3b56d49951bbf0f49b8b3d38193c2a8a244b2f64751b4bc7b712ff6d5343c4aff363efce4d6ee11bb2e958002c1538b4812
   languageName: node
   linkType: hard
 
 "@instructure/canvas-dark-mode-theme@file:../packages/canvas-dark-mode-theme::locator=canvas-dark-mode%40workspace%3A.":
   version: 8.39.0
-  resolution: "@instructure/canvas-dark-mode-theme@file:../packages/canvas-dark-mode-theme#../packages/canvas-dark-mode-theme::hash=86dd5b&locator=canvas-dark-mode%40workspace%3A."
+  resolution: "@instructure/canvas-dark-mode-theme@file:../packages/canvas-dark-mode-theme#../packages/canvas-dark-mode-theme::hash=58c61c&locator=canvas-dark-mode%40workspace%3A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
     "@instructure/theme-registry": 8.39.0
     "@instructure/ui-theme-tokens": ../ui-theme-tokens
-  checksum: e788dfb625af2322627175220f2b53aa95565ffca9ce0b4c6fee0078c1b7472a1ead4c272d97ba05c02c1349bf755b9988a2cdfdcdb2275ba4baa4289f936874
+  checksum: dc05cb701a06a59429d9d2c2717ff3b56d49951bbf0f49b8b3d38193c2a8a244b2f64751b4bc7b712ff6d5343c4aff363efce4d6ee11bb2e958002c1538b4812
   languageName: node
   linkType: hard
 
@@ -3875,41 +3875,41 @@ __metadata:
 
 "@instructure/ui-theme-tokens@file:../packages/ui-theme-tokens::locator=canvas-dark-mode%40workspace%3A.":
   version: 8.39.0
-  resolution: "@instructure/ui-theme-tokens@file:../packages/ui-theme-tokens#../packages/ui-theme-tokens::hash=5ba088&locator=canvas-dark-mode%40workspace%3A."
+  resolution: "@instructure/ui-theme-tokens@file:../packages/ui-theme-tokens#../packages/ui-theme-tokens::hash=27ebde&locator=canvas-dark-mode%40workspace%3A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
-  checksum: d58a46494c437e49495b5de605946a1a49bb0676dc1fec062ca28129422afc7e80e5d508ef9a2c616a7db5194c2488dbb11ee17d7f5e22c6b551c1863252e5e1
+  checksum: ec678ff3c2d760534c79114934cc3b7798c87ab91ffc2c2f6530401f0ba454d030331468f58d452013b011ecfb4a807f3fa1ef711a704cc3433ed6e86563a925
   languageName: node
   linkType: hard
 
-"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fpackages%252Fui-themes%2523..%252Fpackages%252Fui-themes%253A%253Ahash%253De5491d%2526locator%253Dcanvas-dark-mode%252540workspace%25253A.":
+"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fpackages%252Fui-themes%2523..%252Fpackages%252Fui-themes%253A%253Ahash%253Dd610e5%2526locator%253Dcanvas-dark-mode%252540workspace%25253A.":
   version: 8.39.0
-  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=5ba088&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fpackages%252Fui-themes%2523..%252Fpackages%252Fui-themes%253A%253Ahash%253De5491d%2526locator%253Dcanvas-dark-mode%252540workspace%25253A."
+  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=27ebde&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fpackages%252Fui-themes%2523..%252Fpackages%252Fui-themes%253A%253Ahash%253Dd610e5%2526locator%253Dcanvas-dark-mode%252540workspace%25253A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
-  checksum: d58a46494c437e49495b5de605946a1a49bb0676dc1fec062ca28129422afc7e80e5d508ef9a2c616a7db5194c2488dbb11ee17d7f5e22c6b551c1863252e5e1
+  checksum: ec678ff3c2d760534c79114934cc3b7798c87ab91ffc2c2f6530401f0ba454d030331468f58d452013b011ecfb4a807f3fa1ef711a704cc3433ed6e86563a925
   languageName: node
   linkType: hard
 
-"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fui-themes%2523..%252Fui-themes%253A%253Ahash%253De5491d%2526locator%253D%252540instructure%25252Fui%252540file%25253A..%25252Fpackages%25252Fui%252523..%25252Fpackages%25252Fui%25253A%25253Ahash%25253D3e0025%252526locator%25253Dcanvas-dark-mode%25252540workspace%2525253A.":
+"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fui-themes%2523..%252Fui-themes%253A%253Ahash%253Dd610e5%2526locator%253D%252540instructure%25252Fui%252540file%25253A..%25252Fpackages%25252Fui%252523..%25252Fpackages%25252Fui%25253A%25253Ahash%25253D03fc1a%252526locator%25253Dcanvas-dark-mode%25252540workspace%2525253A.":
   version: 8.39.0
-  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=5ba088&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fui-themes%2523..%252Fui-themes%253A%253Ahash%253De5491d%2526locator%253D%252540instructure%25252Fui%252540file%25253A..%25252Fpackages%25252Fui%252523..%25252Fpackages%25252Fui%25253A%25253Ahash%25253D3e0025%252526locator%25253Dcanvas-dark-mode%25252540workspace%2525253A."
+  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=27ebde&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fcanvas-dark-mode-theme%23..%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3D%2540instructure%252Fui-themes%2540file%253A..%252Fui-themes%2523..%252Fui-themes%253A%253Ahash%253Dd610e5%2526locator%253D%252540instructure%25252Fui%252540file%25253A..%25252Fpackages%25252Fui%252523..%25252Fpackages%25252Fui%25253A%25253Ahash%25253D03fc1a%252526locator%25253Dcanvas-dark-mode%25252540workspace%2525253A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
-  checksum: d58a46494c437e49495b5de605946a1a49bb0676dc1fec062ca28129422afc7e80e5d508ef9a2c616a7db5194c2488dbb11ee17d7f5e22c6b551c1863252e5e1
+  checksum: ec678ff3c2d760534c79114934cc3b7798c87ab91ffc2c2f6530401f0ba454d030331468f58d452013b011ecfb4a807f3fa1ef711a704cc3433ed6e86563a925
   languageName: node
   linkType: hard
 
-"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fpackages%2Fcanvas-dark-mode-theme%23..%2Fpackages%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
+"@instructure/ui-theme-tokens@file:../ui-theme-tokens::locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fpackages%2Fcanvas-dark-mode-theme%23..%2Fpackages%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
   version: 8.39.0
-  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=5ba088&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fpackages%2Fcanvas-dark-mode-theme%23..%2Fpackages%2Fcanvas-dark-mode-theme%3A%3Ahash%3D86dd5b%26locator%3Dcanvas-dark-mode%2540workspace%253A."
+  resolution: "@instructure/ui-theme-tokens@file:../ui-theme-tokens#../ui-theme-tokens::hash=27ebde&locator=%40instructure%2Fcanvas-dark-mode-theme%40file%3A..%2Fpackages%2Fcanvas-dark-mode-theme%23..%2Fpackages%2Fcanvas-dark-mode-theme%3A%3Ahash%3D58c61c%26locator%3Dcanvas-dark-mode%2540workspace%253A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/shared-types": 8.39.0
-  checksum: d58a46494c437e49495b5de605946a1a49bb0676dc1fec062ca28129422afc7e80e5d508ef9a2c616a7db5194c2488dbb11ee17d7f5e22c6b551c1863252e5e1
+  checksum: ec678ff3c2d760534c79114934cc3b7798c87ab91ffc2c2f6530401f0ba454d030331468f58d452013b011ecfb4a807f3fa1ef711a704cc3433ed6e86563a925
   languageName: node
   linkType: hard
 
@@ -3925,27 +3925,27 @@ __metadata:
 
 "@instructure/ui-themes@file:../packages/ui-themes::locator=canvas-dark-mode%40workspace%3A.":
   version: 8.39.0
-  resolution: "@instructure/ui-themes@file:../packages/ui-themes#../packages/ui-themes::hash=e5491d&locator=canvas-dark-mode%40workspace%3A."
+  resolution: "@instructure/ui-themes@file:../packages/ui-themes#../packages/ui-themes::hash=d610e5&locator=canvas-dark-mode%40workspace%3A."
   dependencies:
     "@instructure/canvas-dark-mode-theme": "file:../canvas-dark-mode-theme"
     "@instructure/canvas-high-contrast-theme": 8.39.0
     "@instructure/canvas-theme": 8.39.0
     "@instructure/instructure-theme": 8.39.0
     "@instructure/shared-types": 8.39.0
-  checksum: 3f9971d51eadb60b75759db178e4fd24c00724d12e32d808430479f481981567b77203d64348b324fff07fa7aaab54b10b3e6dc6156428cf338e7cab630f48d6
+  checksum: 919e3640ba50a2b6da7b0fb9eadf1ba08f2c3193bdc6a999247552bb153c8a452e5fc2ecaa49915a6baa351e6bd39e46f8e7ece062d40aa9b7132842bb4db00e
   languageName: node
   linkType: hard
 
-"@instructure/ui-themes@file:../ui-themes::locator=%40instructure%2Fui%40file%3A..%2Fpackages%2Fui%23..%2Fpackages%2Fui%3A%3Ahash%3D3e0025%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
+"@instructure/ui-themes@file:../ui-themes::locator=%40instructure%2Fui%40file%3A..%2Fpackages%2Fui%23..%2Fpackages%2Fui%3A%3Ahash%3D03fc1a%26locator%3Dcanvas-dark-mode%2540workspace%253A.":
   version: 8.39.0
-  resolution: "@instructure/ui-themes@file:../ui-themes#../ui-themes::hash=e5491d&locator=%40instructure%2Fui%40file%3A..%2Fpackages%2Fui%23..%2Fpackages%2Fui%3A%3Ahash%3D3e0025%26locator%3Dcanvas-dark-mode%2540workspace%253A."
+  resolution: "@instructure/ui-themes@file:../ui-themes#../ui-themes::hash=d610e5&locator=%40instructure%2Fui%40file%3A..%2Fpackages%2Fui%23..%2Fpackages%2Fui%3A%3Ahash%3D03fc1a%26locator%3Dcanvas-dark-mode%2540workspace%253A."
   dependencies:
     "@instructure/canvas-dark-mode-theme": "file:../canvas-dark-mode-theme"
     "@instructure/canvas-high-contrast-theme": 8.39.0
     "@instructure/canvas-theme": 8.39.0
     "@instructure/instructure-theme": 8.39.0
     "@instructure/shared-types": 8.39.0
-  checksum: 3f9971d51eadb60b75759db178e4fd24c00724d12e32d808430479f481981567b77203d64348b324fff07fa7aaab54b10b3e6dc6156428cf338e7cab630f48d6
+  checksum: 919e3640ba50a2b6da7b0fb9eadf1ba08f2c3193bdc6a999247552bb153c8a452e5fc2ecaa49915a6baa351e6bd39e46f8e7ece062d40aa9b7132842bb4db00e
   languageName: node
   linkType: hard
 
@@ -4190,7 +4190,7 @@ __metadata:
 
 "@instructure/ui@file:../packages/ui::locator=canvas-dark-mode%40workspace%3A.":
   version: 8.39.0
-  resolution: "@instructure/ui@file:../packages/ui#../packages/ui::hash=3e0025&locator=canvas-dark-mode%40workspace%3A."
+  resolution: "@instructure/ui@file:../packages/ui#../packages/ui::hash=03fc1a&locator=canvas-dark-mode%40workspace%3A."
   dependencies:
     "@babel/runtime": ^7.22.6
     "@instructure/emotion": 8.39.0
@@ -4269,7 +4269,7 @@ __metadata:
   peerDependencies:
     react: ">= 16.8 <= 18"
     react-dom: ">= 16.8 <= 18"
-  checksum: 5f3c98499b1745d2d323dcfc07a3eed761d3a3b3fef4cfd4a0d1614957e729223e2d22be892a6873e015591271d03a7e11c60fe4c381900a3869ce4591bf623d
+  checksum: 2c2fe3644811c0f9a0e8119186d0500610372e7395a860ccd623a3324107d1f4d4a5236fd5300406d4df9d185d897c490dfaa6cdd35a654c6429a280c5b11501
   languageName: node
   linkType: hard
 
